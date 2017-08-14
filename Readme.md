@@ -1,6 +1,6 @@
 * python3 first
 * copy all *csv files into data folder
-install tensorflow
+* install tensorflow
 * install arboretum https://github.com/sh1ng/arboretum
 * install lightgbm
 * $ python3 create_products.py
@@ -8,7 +8,7 @@ install tensorflow
 * $ python3 orders_comsum.py
 * $ python3 user_product_rank.py
 * $ python3 create_prod2vec_dataset.py
-create models directory
+* create models directory
 * $ python3 skip_gram_train.py
 * $ python3 skip_gram_get.py
 * $ python3 arboretum_cv.py # optional just to see CV
